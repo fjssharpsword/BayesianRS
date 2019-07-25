@@ -292,8 +292,9 @@ if __name__ == '__main__':
         dmf.run()
 '''
 nohup python -u DMF-TF-kb.py > dmftf-kb.log  &
-K = 8 
-K = 16
-K = 32
-K = 64
+K    hit@10  ndcg@10
+8    nan    nan
+16    nan    nan
+32    
+64    
 '''
