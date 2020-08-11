@@ -6,3 +6,5 @@
 3.Model: SVDBias, NCF, DMF, PMF, IRT-MF, BMF, BNMF
 
 4.IRT-MF: Knowledge Recommendation based on Item Response Theory (SKG2019)
+
+5.BLFM：Probabilistic_Latent_Factor_Model_for_Collaborative_Filtering_with_Bayesian_Inference(ICPR2020)
